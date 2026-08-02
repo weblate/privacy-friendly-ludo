@@ -26,7 +26,7 @@
     <string name="help">Помощь</string>
     <string name="help_playerNumber">Сколько игроков могут играть в игру?</string>
     <string name="pref_keepScreenOn_switch">Экран остаётся включённым во время игры</string>
-    <string name="pref_keepScreenOn_switch_summary">" Во время всей игры экран остаётся включённым."</string>
+    <string name="pref_keepScreenOn_switch_summary">Во время всей игры экран остаётся включённым.</string>
     <string name="initial_name_field">имя</string>
     <string name="play_with_own_dice">Играть своими костями</string>
     <string name="cancel">отмена</string>

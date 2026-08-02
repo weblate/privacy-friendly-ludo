@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en" tools:ignore="MissingTranslation">
-    <string name="app_name">Ludo</string>
+    <string name="app_name">Ludo (Privacy Friendly)</string>
     <string name="app_name_long">Privacy Friendly Ludo</string>
     <string name="app_prefix" translatable="false">Privacy Friendly</string>
     <!-- ###DRAWER###-->
@@ -81,7 +81,7 @@
     <string name="pref_rollDice3times_switch">Roll dice three times is allowed</string>
     <string name="pref_rollDice3times_switch_summary"> A player who has no figures in the game has 3 tries to throw a six.</string>
     <string name="pref_keepScreenOn_switch">Screen stays on during game</string>
-    <string name="pref_keepScreenOn_switch_summary">" During the whole game the screen stays active."</string>
+    <string name="pref_keepScreenOn_switch_summary">During the whole game the screen stays active.</string>
     <!-- ### TUTORIAL DIALOG ### -->
     <string name="slide1_heading">Welcome!</string>
     <string name="slide1_text">This app is a boardgame for 1–6 players.</string>
