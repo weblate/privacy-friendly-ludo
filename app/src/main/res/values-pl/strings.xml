@@ -40,7 +40,7 @@
     <string name="pref_header_general">Ogólne</string>
     <string name="pref_rollDice3times_switch">Można rzucić kostką trzy razy</string>
     <string name="pref_keepScreenOn_switch">Ekran pozostaje włączony podczas gry</string>
-    <string name="pref_keepScreenOn_switch_summary">" Przez całą grę ekran pozostaje aktywny."</string>
+    <string name="pref_keepScreenOn_switch_summary">Przez całą grę ekran pozostaje aktywny.</string>
     <string name="slide1_heading">Witamy!</string>
     <string name="slide1_text">Ta aplikacja jest grą planszową dla 1–6 graczy.</string>
     <string name="slide2_heading">Pola gier</string>

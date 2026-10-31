@@ -111,7 +111,7 @@
     <string name="LeaveWinDialog">Wenn Sie fortfahren, können Sie nicht zurückkehren, sind sie sicher?</string>
     <string name="LeaveWinDialogTitle">Sind sie sicher, das sie den Dialog verlassen wollen?</string>
     <string name="OverwriteResumableGame">Wenn Sie fortfahren, wird das letzte gespeicherte Spiel überschrieben.</string>
-    <string name="pref_keepScreenOn_switch_summary">" Während des kompletten Spiels bleibt der Bildschirm an."</string>
+    <string name="pref_keepScreenOn_switch_summary">Während des kompletten Spiels bleibt der Bildschirm an.</string>
     <string name="OverwriteResumableGameTitle">Gespeichertes Spiel überschreiben?</string>
     <string name="Winner">%n</string>
     <string name="enough_players">Bitte wählen Sie mindestens 2 Spieler aus.</string>
